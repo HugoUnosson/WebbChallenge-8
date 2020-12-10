@@ -1,0 +1,11 @@
+body{
+	background-color: orange;
+}
+
+.paddingLeft{
+	padding-left: 10px
+}
+
+.floatLeft{
+	float: left;
+}
